@@ -1,7 +1,9 @@
 $ cat book/SUMMARY.md 
 # SUMMARY
 
-* [Chapter1]()(chapter1/README.md)
-  * [Section1.1]()(chapter1/2016-08-07-xqszj1.md)
-* [Chapter2]()(chapter2/README.md)
+* [Chapter1]()
+  - [Section1.1][2]
+* [Chapter2][3]
 
+[2]:	chapter1/2016-08-07-xqszj1.md
+[3]:	%5CREADME.md
