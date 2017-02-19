@@ -11,6 +11,7 @@
     * [书籍主题](gitbook.com/config/theme.md)
     * [GitHub 集成](gitbook.com/config/github.md)
     * [绑定域名](gitbook.com/config/domain.md)
+    
 ## Part II - GitBook Advanced
 * [个性化配置](customize/README.md)
   * [book.json](customize/book.json.md)
