@@ -1,8 +1,9 @@
 # 目录
 
 * [序言](chapter00/preface.md)
-* [第一章](chapter01/README.md)
-   * [第一节](chapter01/note0101.md)
+* [第一章 阅读笔记](chapter01/README.md)
+   * [1.极简主义](chapter01/note0101.md)
+     *[1.1 读书笔记](chapter01/note080121.md)
    * [第二节](chapter01/note02.md)
 * [第二章](chapter02/README.md)
    * [第一节](chapter02/note01.md)
